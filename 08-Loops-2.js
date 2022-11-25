@@ -23,3 +23,9 @@ while(count2<sentence.length){
 }
 
 console.log(`There is ${timesRepeated} 'a' letters in the sentence`)
+
+// Basic structure WHILE LOOP
+// while(condition){
+//  instructions;
+//}
+// First check condition = TRUE, then execute instructions.
