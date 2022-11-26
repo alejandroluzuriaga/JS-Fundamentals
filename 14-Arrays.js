@@ -30,9 +30,9 @@ showArray(grades)
 grades.push(6)
 showArray(grades)
 
-//to delete last element of the array we use array.shift()
+//to delete last element of the array we use array.pop()
 
-grades.push(6)
+grades.po(6)
 showArray(grades)
 
 //we can get 1 or more elements of the array with the .slice function 
